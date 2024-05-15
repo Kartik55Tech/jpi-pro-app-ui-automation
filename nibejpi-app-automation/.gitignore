@@ -1,0 +1,42 @@
+# Ignore metadata directory
+.metadata/
+
+# Ignore Windows shortcuts
+*.lnk
+
+# Ignore target directory
+/target/
+
+# Ignore test output in parent-project/pro-automation
+nibejpi-app-automation/consumer-automation/test-output/*
+
+# Ignore log files
+*.log
+
+# Ignore Eclipse settings
+.settings/
+
+# Ignore IntelliJ IDEA settings
+.idea/
+*.iml
+
+# Ignore image files with .jpg extension
+*.jpg
+
+# Ignore Allure report directory
+.allure/
+
+# Ignore Eclipse classpath file
+.classpath
+
+# Ignore Eclipse project file
+.project
+
+# Ignore Allure results directory
+allure-results/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log

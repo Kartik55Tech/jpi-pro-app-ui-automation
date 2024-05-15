@@ -1,0 +1,14 @@
+{
+  "platform": "Android",
+  "android_app_package": "com.myuplink.pro",
+  "android_app_activity": "com.myuplink.pro.representation.splash.SplashActivity",
+  "avd_launch_timeout": 90000,
+  "android_device_name": "moto g51 5G",
+  "platform_Version": "12",
+  "android_udid": "ZD2223BPDB",
+  "android_system_port": 7878,
+  "android_chromedriver_port": 8787,
+  "android_emulator": "no",
+  "appium_url": "http://127.0.0.1:4723",
+  "appium:automationName" : "uiautomator2"
+}
